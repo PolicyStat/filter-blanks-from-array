@@ -1,6 +1,6 @@
 {
   "name": "filter-blanks-from-array",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "Function that filters undefined items from an array.",
   "main": "index.js",
   "repository": {
