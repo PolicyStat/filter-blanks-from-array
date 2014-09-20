@@ -1,0 +1,24 @@
+{
+  "name": "filter-blanks-from-array",
+  "version": "0.0.0",
+  "description": "Function that filters undefined items from an array.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mightyiam/filter-blanks-from-array.git"
+  },
+  "keywords": [
+    "filter",
+    "undefined",
+    "array"
+  ],
+  "author": "Shahar Or",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyiam/filter-blanks-from-array/issues"
+  },
+  "homepage": "https://github.com/mightyiam/filter-blanks-from-array",
+  "dependencies": {
+    "foreach": "^2.0.4"
+  }
+}
